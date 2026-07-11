@@ -1,6 +1,9 @@
 # YouTube-Music-Cilent
 "FOR FREE"
 
+0) chrome starten/runterladen und google auswählen
+
+
 1) einmal runterladen bzw hinzufügen > https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh
 <img width="657" height="268" alt="image" src="https://github.com/user-attachments/assets/b946950a-4603-4220-b4c5-9f3f52bd3ae4" />
 
